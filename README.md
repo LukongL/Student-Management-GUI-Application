@@ -90,7 +90,7 @@ Assigning a Grade
 
 Calculating Average Grade
 
-Select a student from the list.
+	Select a student from the list.
 
 	Choose a course from the "Enroll in Course" dropdown.
 	
